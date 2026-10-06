@@ -1842,9 +1842,8 @@ st.markdown(
     <hr>
     <div style="text-align: center; color: #666; font-size: 14px;">
         <strong>Developed by Obada Kurdi</strong><br>
-        Bachelor Thesis — Assessment of Solar–Wind Integration and Battery Storage
-        in Turkmenistan’s Future Power System<br>
-        © 2026 Obada Kurdi. All rights reserved.
+        Developed as part of a bachelor’s thesis supervised by Devanand Yadav, M.Sc., at the Institute of Electrical Power Engineering and Energy Systems (IEE), Clausthal University of Technology.
+        All rights reserved.
     </div>
     """,
     unsafe_allow_html=True
